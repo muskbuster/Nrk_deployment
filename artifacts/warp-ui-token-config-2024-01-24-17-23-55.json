@@ -1,0 +1,8 @@
+{
+  "chainId": 58875,
+  "name": "NRK",
+  "symbol": "NRK",
+  "decimals": 18,
+  "type": "native",
+  "hypNativeAddress": "0xa38F5Bb0f399987FcE07322C98B748e991F586a8"
+}

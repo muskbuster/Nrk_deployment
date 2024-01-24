@@ -1,0 +1,12 @@
+nordektest:
+  name: nordektest
+  chainId: 58875
+  domainId: 58875
+  protocol: ethereum
+  rpcUrls:
+    - http: https://testnet-rpc.nordekscan.com/
+  nativeToken:
+    name: NRK # String
+    symbol: NRK # String
+    decimals: 18 # Number
+

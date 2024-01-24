@@ -1,0 +1,18 @@
+{
+  "nordektest": {
+    "router": "0xa38F5Bb0f399987FcE07322C98B748e991F586a8",
+    "tokenType": "native"
+  },
+  "mumbai": {
+    "router": "0xF83eB0C2a596c4ACBdfe7e84A5EBbbCe0Fc40421",
+    "tokenType": "synthetic"
+  },
+  "scrollsepolia": {
+    "router": "0xF83eB0C2a596c4ACBdfe7e84A5EBbbCe0Fc40421",
+    "tokenType": "synthetic"
+  },
+  "sepolia": {
+    "router": "0xafa880D66B0ae781655432096Ddb51f22251c7a8",
+    "tokenType": "synthetic"
+  }
+}

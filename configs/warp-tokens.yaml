@@ -1,0 +1,10 @@
+base:
+  chainName: nordektest
+  type: native
+  address: "0x0000000000000000000000000000000000000000"
+  isNft: false
+synthetics:
+  - chainName: mumbai
+  - chainName: scrollsepolia
+  - chainName: sepolia
+
