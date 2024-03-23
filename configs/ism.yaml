@@ -2,4 +2,8 @@ nordektest:
   threshold: 1
   validators:
     - "0x7c7A2298db2baC6d120cd1e0182A6e6E8257adCd"
+linea:
+  threshold: 1
+  validators:
+    - "0x7c7A2298db2baC6d120cd1e0182A6e6E8257adCd"
 
